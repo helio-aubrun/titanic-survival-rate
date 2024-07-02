@@ -1,0 +1,4 @@
+1) Qu’est ce que l’apprentissage automatique supervisé ?
+L'apprentissage automatique supervisé est une branche de l'apprentissage automatique où le modèle est formé sur un ensemble de données étiquetées. Cela signifie que chaque exemple d'entrée dans l'ensemble de formation est associé à une sortie correcte ou étiquette. Le but est de créer un modèle qui, lorsqu'il est présenté à de nouvelles entrées non vues auparavant, peut prédire avec précision la sortie correspondante.
+
+2) Qu’est ce que les données étiquetées (ou labellisées) ?
